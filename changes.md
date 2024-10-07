@@ -2,6 +2,8 @@
 
 Every piece of automation launched inside of Ascender or any AWX derivative has the ability to export detailed information to a logging server. For every host in each playbook task, a status is recorded. Ascender Ledger Pro collects any statuses marked as “Changed” and stores them in the database for further analysis. All of this can be found in the **Changes** section.
 
+![Changes](assets/images/changes.jpg)
+
 For all hosts, the following details are displayed:
 
 - Timestamp
@@ -11,6 +13,8 @@ For all hosts, the following details are displayed:
 - Module
 
 If the **View** icon is clicked, additional details about the entry will be displayed, including:
+
+![Changes View](assets/images/changes-view.jpg)
 
 - Controller
 - Project
@@ -22,6 +26,8 @@ If the **View** icon is clicked, additional details about the entry will be disp
 - Task data
 
 ## Filtering
+
+![Filter](assets/images/filter.jpg)
 
 Filtering options include:
 
@@ -45,9 +51,13 @@ Once a filter is added, the **Create** button can be clicked to save the item. A
 
 ## Search
 
+![Search](assets/images/search.jpg)
+
 To the right is the **Search** box. The search box allows you to narrow down the information currently presented in the list. If no filtering is in place, it will start matching values from everything in the list. If filtering is applied, then only information from the filtered list will be found via the search box.
 
 ## Export
+
+![Export](assets/images/export.jpg)
 
 Exporting options exist to the right above the search box. These options include:
 
