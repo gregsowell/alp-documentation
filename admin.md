@@ -26,6 +26,8 @@ Once the **Edit** button is clicked by a username, you are presented with the **
 
 ## Teams
 
+![Admin Teams](assets/images/admin-teams.jpg)
+
 Teams in Ascender Ledger Pro are a way to group users. Permissions that are applied to a team are inherited by the members added to the team.
 
 From the **Teams** menu, an admin can view, edit, delete, and add new teams.
@@ -34,7 +36,11 @@ From the **Teams** menu, an admin can view, edit, delete, and add new teams.
 
 When the **Edit** button is clicked beside a team name, you are presented with three tabs: **Details**, **Users**, and **Permissions**.
 
+![Edit Teams Tabs](assets/images/admin-teams-tabs.jpg)
+
 #### Details Tab
+
+![Admin Teams Details](assets/images/admin-teams-details.jpg)
 
 The **Details** tab allows for the modification of:
 
@@ -46,9 +52,13 @@ The LDAP information only applies when group mapping is performed via an externa
 
 #### Users Tab
 
+![Admin Teams Users](assets/images/admin-teams-users.jpg)
+
 The **Users** tab allows for adding or removing users from the team, whether they are local or LDAP users.
 
 #### Permissions Tab
+
+![Admin Teams Permissions](assets/images/admin-teams-permissions.jpg)
 
 The **Permissions** tab allows for setting the permissions for the team.
 
