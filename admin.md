@@ -6,6 +6,8 @@ The **Admin** section allows for the adjustment of administrative settings.
 
 ## Users
 
+![Admin Users](assets/images/admin-users.jpg)
+
 This menu allows for the administration of users within the system. From this menu, a user can be edited via the **Edit** button or deleted via the **Trash Can** button.
 
 A user can be invited via email by clicking the **Invite User** button.
