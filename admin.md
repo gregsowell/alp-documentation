@@ -64,6 +64,8 @@ The **Permissions** tab allows for setting the permissions for the team.
 
 ## Servers
 
+![Admin Servers](assets/images/admin-servers.jpg)
+
 When a new Ascender or AWX derivative server begins sending log messages to Ascender Ledger Pro, an entry is automatically created in the **Servers** section. You can view the following details:
 
 - Name
@@ -73,13 +75,19 @@ When a new Ascender or AWX derivative server begins sending log messages to Asce
 
 No messages will be accepted until the **Trust** button is clicked, changing the icon from a yellow unlocked padlock to a blue locked one.
 
+![Admin Servers Trust](assets/images/admin-servers-trust.jpg)
+
 The **Edit** button, when pushed, gives an administrator the ability to modify the Ascender server’s URL.
 
 ## Settings
 
-**Settings** has three submenus: **General**, **Mail**, and **Authentication**.
+![Admin Settings](assets/images/admin-settings.jpg)
+
+**Settings** has four submenus: **General**, **Mail**, **Authentication**, and **License**.
 
 ### General
+
+![Admin Settings General](assets/images/admin-settings-general.jpg)
 
 In the **General** settings, you can:
 
@@ -94,6 +102,8 @@ In the **General** settings, you can:
 
 ### Mail
 
+![Admin Settings Mail](assets/images/admin-settings-mail.jpg)
+
 Email settings can be configured from this menu. This includes:
 
 - Disabling email sending
@@ -103,7 +113,24 @@ Email settings can be configured from this menu. This includes:
 
 ### Authentication
 
+![Admin Settings Authentication](assets/images/admin-settings-authentication.jpg)
+
 This section allows for the configuration of LDAP servers, which is most often utilized via Windows Active Directory (as it’s LDAP compliant).
 
 - The **Require Group** option allows for the specification of an LDAP group that users must be a member of to connect to Ascender Ledger Pro.
 - The **User Base DN** specifies where in the LDAP server to start searching for users.
+
+### License
+
+![Admin License](assets/images/admin-license.jpg)
+
+This section allows for reviewing and modifying the licensing of Ascender Ledger Pro
+
+In the **License** settings, you can view:
+
+- Customer Name
+- Start Date of license
+- End Date of license
+- Current license status
+
+An administrator also has the ability to locate a license file and save it to the system.
