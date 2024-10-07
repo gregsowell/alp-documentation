@@ -1,8 +1,12 @@
 # Packages Section
 
+![Packages Menu](assets/images/packages-menu.jpg)
+
 Using the gather packages module from Ascender in a job template will generate detailed package information about hosts. When this information is sent to Ascender Ledger Pro, it is processed and made available in the **Packages** section.
 
 ## Packages Current
+
+![Packages Current](assets/images/packages-current.jpg)
 
 The **Current** subsection lists the known status of all packages on all hosts. The information listed here includes:
 
@@ -16,6 +20,8 @@ The **Current** subsection lists the known status of all packages on all hosts. 
 - Type
 
 ### Filtering
+
+![Filter](assets/images/filter.jpg)
 
 Filtering options include:
 
@@ -33,9 +39,13 @@ Once a filter is added, the **Create** button can be clicked to save the item. A
 
 ### Search
 
+![Search](assets/images/search.jpg)
+
 To the right is the **Search** box. The search box allows you to narrow down the information currently presented in the list. If no filtering is in place, it will match values from everything in the current list. If filtering is applied, only information from the filtered list will be found via the search box.
 
 ### Export
+
+![Export](assets/images/export.jpg)
 
 Exporting options exist to the right above the search box. These options include:
 
@@ -48,9 +58,13 @@ If filtering and/or search are utilized, the export options will only export the
 
 ## Packages Log
 
+![Packages Log](assets/images/packages-log.jpg)
+
 The **Packages Log** section adds some additional functionality. Here, an **Action** option is added, which shows when a package was either added or removed from a host. This information is available whether the addition or removal happened via automation or manually by an administrator. The information is refreshed anytime a **Gather Packages** is run via Ascender.
 
 ### Filtering
+
+![Filter](assets/images/filter.jpg)
 
 Filtering options include:
 
@@ -68,9 +82,13 @@ Once a filter is added, the **Create** button can be clicked to save the item. A
 
 ### Search
 
+![Search](assets/images/search.jpg)
+
 To the right is the **Search** box. The search box allows you to narrow down the information currently presented in the list. If no filtering is in place, it will match values from everything in the current list. If filtering is applied, only information from the filtered list will be found via the search box.
 
 ### Export
+
+![Export](assets/images/export.jpg)
 
 Exporting options exist to the right above the search box. These options include:
 
