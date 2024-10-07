@@ -14,6 +14,8 @@ A user can be invited via email by clicking the **Invite User** button.
 
 ### Editing a User
 
+![Edit User](assets/images/admin-edit-user.jpg)
+
 Once the **Edit** button is clicked by a username, you are presented with the **Edit User** screen. From here, you can edit the following:
 
 - Name
