@@ -1,8 +1,12 @@
 # Alerts Section
 
+![Alerts Menu](assets/images/alerts-menu.jpg)
+
 Alerts give Ascender Ledger Pro the ability to respond to incoming information. An admin configures match criteria via filters and ties them to providers, which send webhooks or emails.
 
 ## Providers
+
+![Alerts Providers](assets/images/alerts-providers.jpg)
 
 Providers can be found via the **Alerts Providers** menu. Providers are the method by which alerts are sent.
 
@@ -10,12 +14,16 @@ From the providers menu, you can see all currently configured providers, edit th
 
 ### Create New Provider
 
+![Alerts Providers Type](assets/images/alerts-providers-type.jpg)
+
 Clicking the **Create New Provider** button will present a provider type combo box. The options are:
 
 - Webhook
 - Email
 
 #### Email
+
+![Alerts Providers Email](assets/images/alerts-providers-email.jpg)
 
 Choosing **Email** and clicking **Next** allows you to configure the following:
 
@@ -36,6 +44,8 @@ Variables can be used to make the emails more flexible. They are in the format `
 
 #### Webhook
 
+![Alerts Providers Webhook](assets/images/alerts-providers-webhook.jpg)
+
 Choosing **Webhook** and clicking **Next** allows you to configure the following:
 
 - Name of the provider
@@ -54,6 +64,8 @@ There are currently four options:
 
 ## Alerts
 
+![Create New Alert Open](assets/images/alert-alert-open.jpg)
+
 Alerts can be found via the **Alerts** section. This menu lists all alerts currently in the system, along with the following information:
 
 - Name
@@ -64,6 +76,8 @@ Alerts can be found via the **Alerts** section. This menu lists all alerts curre
 There are also buttons for editing, enabling or disabling, deleting an alert, or creating a new alert.
 
 ### Create an Alert
+
+![Create New Alert](assets/images/alert-alert.jpg)
 
 Clicking the **Create New Alert** button presents simple options:
 
@@ -83,6 +97,10 @@ The filter combo box is populated with all filters an admin has created in vario
 - Services log
 
 ## Logs
+
+
+![Alerts Log](assets/images/alert-log.jpg)
+
 
 Any time an alert is triggered, an entry is added to the **Alerts Log** section. Here, you can view the following information:
 
