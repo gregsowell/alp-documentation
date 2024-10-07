@@ -1,8 +1,12 @@
 # Facts Section
 
+![Facts](assets/images/facts.jpg)
+
 Ascender Ledger Pro was initially created to collect fact information. Fact information is gathered by Ansible, which it does by default, on each host. It collects information such as IP address, partition information, drive utilization, operating system, etc.
 
 ## Fact Filtering
+
+![Filter](assets/images/filter.jpg)
 
 Filtering options are hosts, facts, type, and search.
 
@@ -16,9 +20,13 @@ Once a filter is added, the **Create** button can be clicked to save the item. A
 
 ## Fact Search
 
+![Search](assets/images/search.jpg)
+
 To the right is the search box. The search box allows you to narrow down the information that is currently presented in the list. If no filtering is in place, it will start matching values from everything presented in the current list. If filtering is applied, then only information from the filtered list will be found via the search box.
 
 ## Export
+
+![Export](assets/images/export.jpg)
 
 Exporting options exist to the right above the search box. These options include **Copy**, **CSV**, **PDF**, and **Print**. 
 
