@@ -1,6 +1,7 @@
 # Admin Section
 
 The **Admin** section allows for the adjustment of administrative settings.
+![Admin Menu](assets/images/admin-menu.jpg)
 
 ## Users
 
