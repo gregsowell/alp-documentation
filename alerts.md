@@ -111,3 +111,6 @@ Any time an alert is triggered, an entry is added to the **Alerts Log** section.
 - Alert message
 
 There is also a **View** button next to each entry, allowing you to see greater details like the alert status.
+
+
+![Alert Log View](assets/images/alert-log-view.jpg)
