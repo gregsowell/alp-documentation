@@ -24,3 +24,7 @@ From here you need to make several changes:
 - Enable External Logging: On
 
 ![Logging Configuration](assets/images/config-logging.jpg)
+
+## Configure Ascender Ledger Pro To Accept Logs
+
+You must now enable the servers on the ALP server.  Instructions are provided in the admin server section here: [Admin Servers](admin.md#servers)
