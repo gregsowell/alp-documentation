@@ -1,8 +1,15 @@
 # Ascender Ledger Pro Documentation
 
-Welcome to the Ascender Ledger Pro documentation. Below are links to all the key sections of the product documentation.
+## Overview
+
+Ascender Ledger Pro is designed to help you gather, analyze, and monitor data across your infrastructure. From managing hosts and packages to analyzing errata and generating reports, each feature has been crafted to provide administrators with powerful tools for automation and monitoring.
+
+For questions or further support, please refer to the individual section links above for more in-depth explanations and usage examples.
+
 
 ## Table of Contents
+
+Welcome to the Ascender Ledger Pro documentation. Below are links to all the key sections of the product documentation.
 
 1. [Dashboard Section](dashboard.md)
 2. [Reports Section](reports.md)
@@ -17,8 +24,8 @@ Welcome to the Ascender Ledger Pro documentation. Below are links to all the key
 
 Each section provides detailed guidance on the usage and functionality of Ascender Ledger Pro. Click on any of the links above to navigate directly to the section you're interested in.
 
-## Overview
+## Install Guide
 
-Ascender Ledger Pro is designed to help you gather, analyze, and monitor data across your infrastructure. From managing hosts and packages to analyzing errata and generating reports, each feature has been crafted to provide administrators with powerful tools for automation and monitoring.
+Installation is fairly simple and straight forward.  Follow the link below for details.
 
-For questions or further support, please refer to the individual section links above for more in-depth explanations and usage examples.
+[Install Guide](install.md)
