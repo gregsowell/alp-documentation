@@ -6,7 +6,6 @@ Ascender Ledger Pro is designed to help you gather, analyze, and monitor data ac
 
 For questions or further support, please refer to the individual section links above for more in-depth explanations and usage examples.
 
-
 ## Table of Contents
 
 Welcome to the Ascender Ledger Pro documentation. Below are links to all the key sections of the product documentation.
