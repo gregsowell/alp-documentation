@@ -4,7 +4,7 @@
 
 Ascender Ledger Pro is designed to help you gather, analyze, and monitor data across your infrastructure. From managing hosts and packages to analyzing errata and generating reports, each feature has been crafted to provide administrators with powerful tools for automation and monitoring.
 
-For questions or further support, please refer to the individual section links above for more in-depth explanations and usage examples.
+For questions or further support, please refer to the individual section links below for more in-depth explanations and usage examples.
 
 ## Table of Contents
 
