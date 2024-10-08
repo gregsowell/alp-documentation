@@ -28,3 +28,30 @@ Each section provides detailed guidance on the usage and functionality of Ascend
 Installation is fairly simple and straight forward.  Follow the link below for details.
 
 [Install Guide](install.md)
+
+## Quick Start
+
+To quickly get started with Ascender Ledger Pro, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-repo/ascender-ledger-pro.git`
+2. Navigate to the project directory: `cd ascender-ledger-pro`
+3. Install dependencies: `npm install` or `pip install -r requirements.txt`
+4. Start the application: `npm start` or `python app.py`
+
+## Configuration
+
+After installation, configure Ascender Ledger Pro by editing the `config.json` file located in the root directory. Refer to the [Configuration Guide](config.md) for detailed instructions.
+
+## Usage Examples
+
+Here are some common use cases for Ascender Ledger Pro:
+
+- **Managing Hosts**: [Example command or script]
+- **Generating Reports**: [Example command or script]
+- **Monitoring Services**: [Example command or script]
+
+For more examples, visit the [Usage Examples](examples.md) section.
+
+## Contact Information
+
+For further assistance, please contact our support team at support@ascenderledgerpro.com or visit our [Support Page](support.md).
